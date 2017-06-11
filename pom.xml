@@ -20,7 +20,7 @@
         <configuration>
             <archive>
                 <manifest>
-                    <mainClass>package1.JavaCodeChandrakantHello</mainClass>
+                    <mainClass>package1.LaunchBroFF</mainClass>
                 </manifest>
             </archive>
         </configuration>
